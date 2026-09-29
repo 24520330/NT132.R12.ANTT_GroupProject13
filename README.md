@@ -2,8 +2,8 @@
 # 🎓 Đồ án: Tìm hiểu và Triển khai Hạ tầng Ảo hóa VMware vSphere
 
 **Môn học:** Quản trị mạng và hệ thống  
-**Giảng viên hướng dẫn:** [Điền tên giảng viên]  
-**Nhóm thực hiện:** Nhóm [Điền số/tên nhóm]  
+**Giảng viên hướng dẫn:** ThS Đỗ Hoàng Hiền  
+**Nhóm thực hiện:** Nhóm 13 
 
 ---
 
@@ -23,9 +23,7 @@ Dự án này tập trung nghiên cứu, thiết kế và triển khai một h�
 
 ## 🛠 Nền tảng & Công cụ sử dụng
 - **Ảo hóa:** VMware ESXi 7.0/8.0, VMware vCenter Server.
-- **Lưu trữ:** [Điền tên OS dùng làm Storage, VD: TrueNAS / Windows Server / Openfiler].
-- **Quản lý công việc:** [Link Trello của nhóm]
-- **Soạn thảo báo cáo:** [Link Overleaf của nhóm]
+- **Lưu trữ:** VD: TrueNAS / Windows Server / Openfiler].
 - **Lưu trữ script/cấu hình:** GitHub Repository.
 
 ---
@@ -34,10 +32,10 @@ Dự án này tập trung nghiên cứu, thiết kế và triển khai một h�
 
 | STT | Họ và tên | MSSV | Vai trò & Nhiệm vụ cốt lõi |
 | :---: | :--- | :---: | :--- |
-| **1** | **[Thành viên 1]** | [MSSV] | **Trưởng nhóm / vMotion & Thuyết trình**<br>- Quản lý tiến độ (Trello/GitHub).<br>- Cấu hình mạng VMkernel và tính năng vMotion.<br>- Thực hiện kiểm thử vMotion (Live Migration).<br>- Thiết kế slide và lên kịch bản demo tổng. |
-| **2** | **[Thành viên 2]** | [MSSV] | **Chuyên trách Hạ tầng Compute**<br>- Cài đặt và cấu hình mạng cơ bản cho 02 ESXi host.<br>- Triển khai vCenter Server Appliance (VCSA).<br>- Viết chương Tổng quan và Kiến trúc hệ thống. |
-| **3** | **[Thành viên 3]** | [MSSV] | **Chuyên trách Hệ thống Lưu trữ & HA**<br>- Triển khai Storage Server, cấu hình iSCSI/NFS.<br>- Gắn Shared Datastore vào ESXi hosts.<br>- Kiểm thử tính năng HA (giả lập sập host).<br>- Viết chương Cấu hình Hệ thống lưu trữ. |
-| **4** | **[Thành viên 4]** | [MSSV] | **Chuyên trách Cluster & DRS**<br>- Tạo Cluster, kích hoạt HA và DRS trên vCenter.<br>- Deploy máy ảo (VM) kiểm thử vào hệ thống.<br>- Tạo tải giả lập (stress-test) để kiểm thử thuật toán DRS.<br>- Viết chương Cấu hình Cluster & Vận hành. |
+| **1** | **[Thành viên 1]** | **Trưởng nhóm / vMotion & Thuyết trình**<br>- Quản lý tiến độ (Trello/GitHub).<br>- Cấu hình mạng VMkernel và tính năng vMotion.<br>- Thực hiện kiểm thử vMotion (Live Migration).<br>- Thiết kế slide và lên kịch bản demo tổng. |
+| **2** | **[Thành viên 2]** | **Chuyên trách Hạ tầng Compute**<br>- Cài đặt và cấu hình mạng cơ bản cho 02 ESXi host.<br>- Triển khai vCenter Server Appliance (VCSA).<br>- Viết chương Tổng quan và Kiến trúc hệ thống. |
+| **3** | **[Thành viên 3]** | **Chuyên trách Hệ thống Lưu trữ & HA**<br>- Triển khai Storage Server, cấu hình iSCSI/NFS.<br>- Gắn Shared Datastore vào ESXi hosts.<br>- Kiểm thử tính năng HA (giả lập sập host).<br>- Viết chương Cấu hình Hệ thống lưu trữ. |
+| **4** | **[Thành viên 4]** | **Chuyên trách Cluster & DRS**<br>- Tạo Cluster, kích hoạt HA và DRS trên vCenter.<br>- Deploy máy ảo (VM) kiểm thử vào hệ thống.<br>- Tạo tải giả lập (stress-test) để kiểm thử thuật toán DRS.<br>- Viết chương Cấu hình Cluster & Vận hành. |
 
 ---
 
