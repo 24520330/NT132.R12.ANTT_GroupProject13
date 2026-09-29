@@ -1,4 +1,4 @@
-# NT132.R12.ANTT---Nh-m-13
+# NT132.R12.ANTT
 # 🎓 Đồ án: Tìm hiểu và Triển khai Hạ tầng Ảo hóa VMware vSphere
 
 **Môn học:** Quản trị mạng và hệ thống  
