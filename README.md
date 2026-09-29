@@ -30,8 +30,8 @@ Dự án này tập trung nghiên cứu, thiết kế và triển khai một h�
 
 ## 👥 Danh sách thành viên và Bảng phân công nhiệm vụ
 
-| STT | Họ và tên | MSSV | Vai trò & Nhiệm vụ cốt lõi |
-| :---: | :--- | :---: | :--- |
+| STT | Họ và tên | Vai trò & Nhiệm vụ cốt lõi |
+| :---: | :--- | :--- |
 | **1** | **[Thành viên 1]** | **Trưởng nhóm / vMotion & Thuyết trình**<br>- Quản lý tiến độ (Trello/GitHub).<br>- Cấu hình mạng VMkernel và tính năng vMotion.<br>- Thực hiện kiểm thử vMotion (Live Migration).<br>- Thiết kế slide và lên kịch bản demo tổng. |
 | **2** | **[Thành viên 2]** | **Chuyên trách Hạ tầng Compute**<br>- Cài đặt và cấu hình mạng cơ bản cho 02 ESXi host.<br>- Triển khai vCenter Server Appliance (VCSA).<br>- Viết chương Tổng quan và Kiến trúc hệ thống. |
 | **3** | **[Thành viên 3]** | **Chuyên trách Hệ thống Lưu trữ & HA**<br>- Triển khai Storage Server, cấu hình iSCSI/NFS.<br>- Gắn Shared Datastore vào ESXi hosts.<br>- Kiểm thử tính năng HA (giả lập sập host).<br>- Viết chương Cấu hình Hệ thống lưu trữ. |
